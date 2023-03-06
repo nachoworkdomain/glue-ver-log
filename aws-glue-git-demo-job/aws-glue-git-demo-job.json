@@ -23,7 +23,7 @@
     "--TempDir" : "s3://aws-glue-assets-780716771484-us-east-1/temporary/",
     "--source.database.name" : "torontoparking"
   },
-  "maxRetries" : 0,
+  "maxRetries" : 1,
   "allocatedCapacity" : 10,
   "timeout" : 2880,
   "maxCapacity" : 10.0,
